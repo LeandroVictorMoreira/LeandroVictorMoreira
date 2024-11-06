@@ -1,4 +1,4 @@
-Hello World  My name is Leo
+Hello World, My name is Leo!
 
 - 👨‍💻 Back-End Developer.
 - 🐍 My main technologies are Python and Django.
