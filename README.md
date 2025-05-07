@@ -15,5 +15,5 @@ Hello World, My name is Leo!
 
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 <div style="display: inline_block"><br>
-<img align ="center" alt ="leo-Jv" height="40" width ="40" src="https://www.vectorlogo.zone/logos/java/java-vertical.svg" />
+<img align ="center" alt ="leo-Jv" height="50" width ="50" src="https://www.vectorlogo.zone/logos/java/java-vertical.svg" />
 
