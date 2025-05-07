@@ -1,7 +1,7 @@
 Hello World, My name is Leo!
 
 - 👨‍💻 Back-End Developer.
-- 🐍 My main technologies are Python and Django.
+- 🐍 My main technologies are Java and Python.
 - 🌲 My main focus is to work on integrating technology with routine tasks, creating a strong and sustainable bond.
 - 🚀 Always excited to take on new challenges and solve real-world problems.
 - 🎯 Focused on building efficient and scalable back-end solutions.
@@ -15,5 +15,5 @@ Hello World, My name is Leo!
 
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 <div style="display: inline_block"><br>
-<img align ="center" alt ="leo-Jv" height="50" width ="50" src="https://www.vectorlogo.zone/logos/java/java-vertical.svg" />
+<img align ="center" alt ="leo-Jv" height="60" width ="60" src="https://www.vectorlogo.zone/logos/java/java-vertical.svg" />
 
