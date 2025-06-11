@@ -9,7 +9,6 @@ Hello World, My name is Leo!
 
 
 
-
 <img align ="center" alt ="leo-gif" height="100" width ="100" src ="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHVsbm1ueGMyMGE5YnB5MzVjaDFqb2trbGMwZ2diYWhuZmtubDh6aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1vlBgKjXEz1jTtsuiH/giphy.gif" >
 
 
