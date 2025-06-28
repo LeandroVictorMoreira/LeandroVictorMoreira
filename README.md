@@ -1,7 +1,7 @@
 Hello World, My name is Leo!
 
 - 👨‍💻 Back-End Developer.
-- 🐍 My main technologies are Java and Python.
+- 🐍 My main technologies are C# , Java and Python.
 - 🌲 My main focus is to work on integrating technology with routine tasks, creating a strong and sustainable bond.
 - 🚀 Always excited to take on new challenges and solve real-world problems.
 - 🎯 Focused on building efficient and scalable back-end solutions.
