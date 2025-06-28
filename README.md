@@ -16,5 +16,5 @@ Hello World, My name is Leo!
 <div style="display: inline_block"><br>
 <img align ="center" alt ="leo-Jv" height="70" width ="70" src="https://www.vectorlogo.zone/logos/java/java-vertical.svg" />
 <img align ="center" alt ="leo-Ph" height="70" width ="70" src="https://www.svgrepo.com/show/452091/python.svg" />
-<img align ="center" alt ="leo-c#" height="70" width ="70" src="https://www.svgrepo.com/svg/473579/csharp" />
+<img align ="center" alt ="leo-c#" height="70" width ="70" src="https://gistcdn.githack.com/johndward01/95c1d09de9e3707cfb4154989962376d/raw/f74007782421219d9e9ab4b6a27de2e172a8b714/csharp-logo.svg" />
 
