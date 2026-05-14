@@ -4,11 +4,11 @@
 
 ## 🚀 About Me
 
-💼 Systems Analyst & Back-End Developer
-🧠 Passionate about technology, software architecture and scalable solutions
-⚙️ Focused on building robust back-end applications and solving real-world problems
-📚 Lifelong learner always improving technical and business skills
-🌐 Exploring the connection between technology, automation and everyday life
+* 💼 Systems Analyst & Back-End Developer
+* 🧠 Passionate about technology, software architecture and scalable solutions
+* ⚙️ Focused on building robust back-end applications and solving real-world problems
+* 📚 Lifelong learner always improving technical and business skills
+* 🌐 Exploring the connection between technology, automation and everyday life
 
 ---
 
