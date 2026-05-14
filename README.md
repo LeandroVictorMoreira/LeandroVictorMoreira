@@ -1,12 +1,6 @@
 # 👋 Hello World, I'm Leo Moreira
 
-<div align="center">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420" />
-
-</div>
-
----
 
 ## 🚀 About Me
 
