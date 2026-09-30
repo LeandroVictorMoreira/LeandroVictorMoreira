@@ -1,14 +1,42 @@
-# 👋 Hello World, I'm Leo Moreira
+<div align="center">
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:0F172A,50:1D4ED8,100:16A34A&text=Leandro%20Victor%20Moreira&fontColor=FFFFFF&fontSize=36&fontAlignY=35&desc=Systems%20Analyst%20%7C%20Back-End%20Developer%20%7C%20.NET%20Ecosystem&descAlignY=62&descSize=16&animation=fadeIn" alt="Header" />
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1200&color=38BDF8&center=true&vCenter=true&width=900&lines=Building+robust+and+scalable+back-end+solutions;Clean+Architecture+%7C+DDD+%7C+High-performance+APIs;Cloud%2C+automation%2C+integrations+and+AI;Technology+is+powerful+when+it+solves+real+problems)](https://git.io/typing-svg)
 
-## 🚀 About Me
+<p>
+  <a href="https://www.linkedin.com/in/leandrovmoreira/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/LeandroVictorMoreira">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="mailto:Contato.leandrovmoreira@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=LeandroVictorMoreira&style=for-the-badge&color=0e75b6" alt="Profile views" />
+</p>
 
-* 💼 Systems Analyst & Back-End Developer
-* 🧠 Passionate about technology, software architecture and scalable solutions
-* ⚙️ Focused on building robust back-end applications and solving real-world problems
-* 📚 Lifelong learner always improving technical and business skills
-* 🌐 Exploring the connection between technology, automation and everyday life
+</div>
+
+---
+
+<img align="right" width="360" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Developer coding gif" />
+
+## 👨‍💻 About Me
+
+I'm a **Systems Analyst** and **Back-End Developer** focused on building reliable, scalable and maintainable software.
+
+I believe great user experience starts before the interface: it starts with fast APIs, consistent data, clear business rules and systems that behave predictably under real-world pressure.
+
+- 💼 Focused on the **.NET ecosystem** and modern back-end development
+- 🧠 Interested in **software architecture, Clean Architecture, DDD and system design**
+- ⚙️ Building APIs, integrations, automations and business-oriented solutions
+- ☁️ Exploring cloud, scalable systems and resilient application design
+- 🤖 Studying AI applied to software, including **RAG, embeddings and local LLM workflows**
+- 📚 Always learning, improving and turning technical knowledge into practical impact
+
+<br clear="right"/>
 
 ---
 
@@ -16,77 +44,81 @@
 
 <div align="center">
 
-<img align="center" alt="CSharp" height="70" width="70" src="https://gistcdn.githack.com/johndward01/95c1d09de9e3707cfb4154989962376d/raw/f74007782421219d9e9ab4b6a27de2e172a8b714/csharp-logo.svg" />
-<img align="center" alt="Dotnet" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original-wordmark.svg" />
-<img align="center" alt="React" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="center" alt="TypeScript" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-<img align="center" alt="Java" height="70" width="70" src="https://www.vectorlogo.zone/logos/java/java-vertical.svg" />
-<img align="center" alt="Python" height="70" width="70" src="https://www.svgrepo.com/show/452091/python.svg" />
-<img align="center" alt="PostgreSQL" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+<img src="https://skillicons.dev/icons?i=cs,dotnet,react,ts,js,python,java,postgres,docker,azure,git,github,vscode,visualstudio&perline=7" alt="Main technologies" />
 
 </div>
 
 ---
 
-## ⚡ Technologies & Tools
+## ⚙️ Back-End & Architecture
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=cs,dotnet,react,ts,js,python,java,postgres,git,github,vscode,visualstudio,azure,docker" />
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=111111)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 
 </div>
 
 ---
 
-## 🧠 Current Focus
+## 🚀 Current Focus
 
-* 🏗️ Clean Architecture & DDD
-* ⚡ High-performance APIs with .NET
-* ☁️ Cloud & scalable systems
-* 🔗 System integrations and automation
-* 🎨 Modern Front-End with React + TypeScript
-* 📈 Creating real solutions for real businesses
-
----
-
+- 🏗️ Clean Architecture, DDD and maintainable software design
+- ⚡ High-performance APIs with **C# and .NET**
+- 🔗 System integrations, automation and back-end workflows
+- ☁️ Cloud-ready applications and scalable infrastructure
+- 🤖 AI-assisted solutions with **RAG, embeddings and local models**
+- 🎨 Modern front-end experiences with **React + TypeScript**
 
 ---
 
-## 🔥 Contribution Activity
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=LeandroVictorMoreira&theme=tokyo-night&hide_border=true" width="100%" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=LeandroVictorMoreira&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeandroVictorMoreira&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+
+<br />
+
+<img width="850" src="https://streak-stats.demolab.com?user=LeandroVictorMoreira&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+
+<br />
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=LeandroVictorMoreira&theme=tokyo-night&hide_border=true&area=true" alt="Contribution activity graph" />
 
 </div>
 
 ---
 
-## 🐍 Snake Eating My Contributions
+## 🐍 Contribution Snake
+
+<!--
+To render this animation with your own contributions, add the Platane/snk GitHub Action
+to your profile repository and publish the generated SVG to the "output" branch.
+-->
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/LeandroVictorMoreira/LeandroVictorMoreira/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
 </div>
 
 ---
 
-## 🌎 Connect With Me
+## 💡 Engineering Mindset
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/leandrovmoreira/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+### "Technology only becomes powerful when it solves real problems."
 
-<a href="https://github.com/LeandroVictorMoreira">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<a href="mailto:Contato.leandrovmoreira@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+<img width="260" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" alt="Developer gif" />
 
 </div>
 
@@ -94,12 +126,6 @@
 
 <div align="center">
 
-### 🚀 "Technology only becomes powerful when it solves real problems."
-
-<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="250" />
+**Always building, always learning, always improving.**
 
 </div>
-
----
-
-> ⭐ Always building, always learning.
