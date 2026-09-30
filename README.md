@@ -104,11 +104,15 @@ I believe great user experience starts before the interface: it starts with fast
 
 ## 🐍 Contribution Snake
 
-<!--
-After adding .github/workflows/snake.yml to your profile repository and running it once,
-replace the badge below with the generated snake SVG from the output branch.
--->
+<div align="center">
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LeandroVictorMoreira/LeandroVictorMoreira/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LeandroVictorMoreira/LeandroVictorMoreira/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/LeandroVictorMoreira/LeandroVictorMoreira/output/github-contribution-grid-snake.svg" />
+</picture>
+
+</div>
 <div align="center">
 
 <img src="https://img.shields.io/badge/Snake%20Animation-Run%20the%20GitHub%20Action%20first-16A34A?style=for-the-badge&logo=githubactions&logoColor=white" alt="Snake animation status" />
