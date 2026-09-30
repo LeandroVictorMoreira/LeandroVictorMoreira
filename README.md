@@ -82,16 +82,21 @@ I believe great user experience starts before the interface: it starts with fast
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=LeandroVictorMoreira&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeandroVictorMoreira&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LeandroVictorMoreira&theme=tokyonight" alt="Profile details" />
+
+<br />
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LeandroVictorMoreira&theme=tokyonight" alt="Repositories by language" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LeandroVictorMoreira&theme=tokyonight" alt="Most committed languages" />
+
+<br />
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LeandroVictorMoreira&theme=tokyonight" alt="GitHub stats" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LeandroVictorMoreira&theme=tokyonight&utcOffset=-3" alt="Productive time" />
 
 <br />
 
 <img width="850" src="https://streak-stats.demolab.com?user=LeandroVictorMoreira&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-
-<br />
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=LeandroVictorMoreira&theme=tokyo-night&hide_border=true&area=true" alt="Contribution activity graph" />
 
 </div>
 
@@ -100,13 +105,13 @@ I believe great user experience starts before the interface: it starts with fast
 ## 🐍 Contribution Snake
 
 <!--
-To render this animation with your own contributions, add the Platane/snk GitHub Action
-to your profile repository and publish the generated SVG to the "output" branch.
+After adding .github/workflows/snake.yml to your profile repository and running it once,
+replace the badge below with the generated snake SVG from the output branch.
 -->
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/LeandroVictorMoreira/LeandroVictorMoreira/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+<img src="https://img.shields.io/badge/Snake%20Animation-Run%20the%20GitHub%20Action%20first-16A34A?style=for-the-badge&logo=githubactions&logoColor=white" alt="Snake animation status" />
 
 </div>
 
